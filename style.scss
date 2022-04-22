@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    h3{
+        font-family: poppins;
+        color: white;
+        // background-color: red;
+        width: 250px;
+        margin-left: 110px;
+    }
+    p{
+        font-family: poppins;
+        color: white;
+        width: 300px;
+        margin-left: 90px;
+    }
+    p a{
+        text-decoration: none;
+        color: rgb(0, 119, 255);
+    }
+
+    input[type=text] {
+        font-family: poppins;
+        width: 300px;
+        padding: 12px 20px;
+        margin: 0px 75px;
+        box-sizing: border-box;
+        border: none;
+        background-color: #535353;
+        color: white;
+        border-radius: 10px;
+        cursor: auto;
+      }
+
+    .p2{
+        background-color: rgb(0, 119, 255);
+        width: 170px;
+        border-radius: 10px;
+        padding-left: 125px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+
+    }
+    .p3{
+        width: 170px;
+        border-radius: 10px;
+        padding-left: 112px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        color: rgb(0, 119, 255);
+
+    }
+}
